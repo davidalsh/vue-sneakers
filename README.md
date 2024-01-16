@@ -1,3 +1,6 @@
+![image](https://github.com/davidalsh/vue-sneakers/assets/78478071/f6953102-5f9d-4bf9-a93b-8e803e606fec)
+
+
 # vue-sneakers
 
 This template should help get you started developing with Vue 3 in Vite.
